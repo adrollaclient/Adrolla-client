@@ -1,2 +1,0 @@
-minecraft-launcher-lib>=8,<9
-Pillow>=10
