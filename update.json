@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v1.0.3/Adrolla_Client_v1.0.3.zip",
-  "sha256": "0b8421e0352a34cac68061b76b9fae54bd96490ae2b695f451c7bf0fb47b1150",
-  "notes": "Update-Adresse ist fest eingebaut, jeder bekommt Updates."
+  "version": "1.1.0",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v1.1.0/Adrolla_Client_v1.1.0.zip",
+  "sha256": "617ce2d3aa9a0b474e836b9585beabd070bee12563aa3f2e5e77dfad67c6d03c",
+  "notes": "Datenschutz-Einwilligung beim ersten Start und mehr Sicherheit."
 }
