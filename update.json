@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v1.0.1/Adrolla_Client_v1.0.1.zip",
-  "sha256": "ad790fb53cd3bdbe12768ef70ddc4af0ee93141f9e872c09694e9b314dde5525",
-  "notes": "Die Version wird jetzt in den Einstellungen angezeigt."
+  "version": "1.0.2",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v1.0.2/Adrolla_Client_v1.0.2.zip",
+  "sha256": "dd88b944bbb35daece9370b38e788f4a5d2671e5f45423f5c19c768fb4a40822",
+  "notes": "Client-ID wird automatisch aus .env oder Umgebungsvariable geladen."
 }
