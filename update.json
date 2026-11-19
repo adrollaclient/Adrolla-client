@@ -1,6 +1,1 @@
-{
-  "version": "pre-1",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-1/Adrolla_Client_v_pre-1.zip",
-  "sha256": "617ce2d3aa9a0b474e836b9585beabd070bee12563aa3f2e5e77dfad67c6d03c",
-  "notes": "Datenschutz-Einwilligung beim ersten Start und mehr Sicherheit."
-}
+{"version": "pre-2", "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-2/Adrolla_Client_v_pre-2.zip", "sha256": "51ea0192876ba84c84fdadd106403aefe4de4583bb7c158cddd53218e329e6ff", "notes": "Neu: Capes – erstelle eigene Capes aus Fotos und trage deine offiziellen Minecraft-Capes. Außerdem: automatische Updates, stabilerer Spielstart, Forge/NeoForge ohne eigene Java-Installation und besser geschützte Anmeldung."}
