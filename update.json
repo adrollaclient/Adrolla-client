@@ -1,6 +1,6 @@
 {
-  "version": "pre-8",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-8/Adrolla_Client_v_pre-8.zip",
-  "sha256": "677139c0e3bb0379828924bfffca2abbb1b846a4c9f3398063604a5d935ba73b",
-  "notes": "Flüssiges Scrollen: weiches Mausrad wie im Browser (auch mit Touchpad) und bis zu 4x schnelleres Zeichnen beim Scrollen, vor allem bei Windows-Skalierung 125 %/150 %. Glasflächen, Buttons und Mod-Icons werden jetzt zwischengespeichert, dadurch läuft auch der Sparmodus deutlich flüssiger."
+  "version": "pre-9",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-9/Adrolla_Client_v_pre-9.zip",
+  "sha256": "06ac180584bb21eefa7d9b87f827817a1ed8f8247f96b9094bcb093014750991",
+  "notes": "Neu: Drollas! Hol dir jeden Tag deinen Bonus ab: Tag 1-3 je 5, Tag 4-10 je 10, Tag 11-20 je 20, Tag 21-29 je 30 und an Tag 30 ganze 50 Drollas. Verpasst du einen Tag, startet die Serie wieder bei Tag 1. Deinen Kontostand und alle 30 Tage siehst du im Shop."
 }
