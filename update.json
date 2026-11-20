@@ -1,6 +1,7 @@
 {
-  "version": "pre-9",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-9/Adrolla_Client_v_pre-9.zip",
-  "sha256": "06ac180584bb21eefa7d9b87f827817a1ed8f8247f96b9094bcb093014750991",
-  "notes": "Neu: Drollas! Hol dir jeden Tag deinen Bonus ab: Tag 1-3 je 5, Tag 4-10 je 10, Tag 11-20 je 20, Tag 21-29 je 30 und an Tag 30 ganze 50 Drollas. Verpasst du einen Tag, startet die Serie wieder bei Tag 1. Deinen Kontostand und alle 30 Tage siehst du im Shop."
+  "version": "pre-10",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-10/Adrolla_Client_v_pre-10.zip",
+  "sha256": "9fd5d02371330022f8b27bf6040d5a9b007efd4c7b4f47c9c92d59cf23019139",
+  "notes": "Updates sind jetzt digital signiert und dadurch sicherer.",
+  "signature": "X62VwGpaDU09LQz8k3E/xg+66JJ+rKPgcZ2yJ9DFMnKUeKy453iZtJgQA4Y6fv2BpK7dXJ1iysLku/A9Mdm6CA=="
 }
