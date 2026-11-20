@@ -1,1 +1,6 @@
-{"version": "pre-6", "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-6/Adrolla_Client_v_pre-6.zip", "sha256": "1b643b2031d213dc17ab002566190c0e02c926034f2669ee93d4b3104dbd45a3", "notes": "Neu: Liquid-Glass-Optik mit Sternenhimmel im Hintergrund und eine neue Profil-Karte, über die du das Profil direkt wechselst. Außerdem: Spielzeit pro Profil, keine fehlenden Pixel mehr bei Classic-Skins, Dateiauswahl im normalen Windows-Explorer und das Adrolla-Logo überall statt des Java-Symbols."}
+{
+  "version": "pre-8",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-8/Adrolla_Client_v_pre-8.zip",
+  "sha256": "677139c0e3bb0379828924bfffca2abbb1b846a4c9f3398063604a5d935ba73b",
+  "notes": "Flüssiges Scrollen: weiches Mausrad wie im Browser (auch mit Touchpad) und bis zu 4x schnelleres Zeichnen beim Scrollen, vor allem bei Windows-Skalierung 125 %/150 %. Glasflächen, Buttons und Mod-Icons werden jetzt zwischengespeichert, dadurch läuft auch der Sparmodus deutlich flüssiger."
+}
