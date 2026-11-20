@@ -1,7 +1,7 @@
 {
-  "version": "pre-13",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-13/Drolla_Client_v_pre-13.zip",
-  "sha256": "bd38e7c59f7e062d6d4a498b0b1022b06b34b3be6f7d86dee59b3ea2cd26b9e7",
-  "notes": "Im Leistungsmodus ‚Hoch‘ ist die 3D-Vorschau bei Skins und Capes jetzt immer sofort da. Nur im Modus ‚Sparsam‘ wird sie nach dem Verlassen der Seite pausiert, um Leistung zu sparen.",
-  "signature": "pSuclXejE4hYeCG9eT5ogbakmpOPBtxR5lykZgP9OKrzKHQtNA647GHTcE2WbAMASyVpGfw7/YGhiP1CFyflDQ=="
+  "version": "pre-14",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-14/Drolla_Client_v_pre-14.zip",
+  "sha256": "be74aa46529e91774fbe8ce615134aca7bbec02a68081295b805613d85968ac2",
+  "notes": "Die alte Desktop-Verknüpfung ‚Adrolla Client‘ wird jetzt zuverlässig durch ‚Drolla Client‘ mit dem richtigen Symbol ersetzt.",
+  "signature": "OnNC5fmBZIRjARfDEQtzbsPpCXtI/pBpftHYgyg3sDJl2FZx6GW5FUOBQrwSG5ABkhCcThy+zN245Uc6jFjUAQ=="
 }
