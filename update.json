@@ -1,7 +1,7 @@
 {
-  "version": "pre-11",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-11/Adrolla_Client_v_pre-11.zip",
-  "sha256": "836b5ed1f2774c89293284d849e7220b2ca5eb5b28b406c18ba296ecdf2a53db",
-  "notes": "Updates werden jetzt automatisch im Hintergrund geladen und beim Schließen von Adrolla installiert – kein Klick mehr nötig.",
-  "signature": "4124YXR2U6VwFKLfr2naHDZrLpTNfQN6TA0UyEAy6FUEi7GFnTGZxr/qYYoI+k7xBkHwJy/Fmfkdy35sM9W1DQ=="
+  "version": "pre-12",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-12/Drolla_Client_v_pre-12.zip",
+  "sha256": "c7b3b0cdc941128bd96559bc4f9529de8ea4849b7bda165c0fc72fe7b1ced2b7",
+  "notes": "Adrolla heißt jetzt Drolla Client! Deine Profile, Welten, Skins, Capes und Drollas werden automatisch übernommen, und die Desktop-Verknüpfung wird umbenannt. Außerdem zeigt die Versionsanzeige jetzt die richtige Version.",
+  "signature": "SW925GjZ+new7F1SyyGBefuE1cFno2B4sNWBtrBYAtPHUKfXJYJAtiCVNRv8ML/fklLKybNnxU4it3O7i8x2AA=="
 }
