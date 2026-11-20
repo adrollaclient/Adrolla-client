@@ -1,7 +1,7 @@
 {
-  "version": "pre-10",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-10/Adrolla_Client_v_pre-10.zip",
-  "sha256": "9fd5d02371330022f8b27bf6040d5a9b007efd4c7b4f47c9c92d59cf23019139",
-  "notes": "Updates sind jetzt digital signiert und dadurch sicherer.",
-  "signature": "X62VwGpaDU09LQz8k3E/xg+66JJ+rKPgcZ2yJ9DFMnKUeKy453iZtJgQA4Y6fv2BpK7dXJ1iysLku/A9Mdm6CA=="
+  "version": "pre-11",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-11/Adrolla_Client_v_pre-11.zip",
+  "sha256": "836b5ed1f2774c89293284d849e7220b2ca5eb5b28b406c18ba296ecdf2a53db",
+  "notes": "Updates werden jetzt automatisch im Hintergrund geladen und beim Schliessen von Adrolla installiert - kein Klick mehr noetig.",
+  "signature": "T2ubYV+qGdAw61FewqPq8UXLHlgsprMwHR1jbVRdKk1gTRd9TeNMZt/dv5bEE+oaWNOgtZ3qNV1an6R4VEw/Cw=="
 }
