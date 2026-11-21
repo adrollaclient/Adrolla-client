@@ -1,7 +1,7 @@
 {
-  "version": "pre-15",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-15/Drolla_Client_v_pre-15.zip",
-  "sha256": "154a8efadaf831e09123a0978c863fda0e04fc7a5f09345193726add7d2f43b7",
-  "notes": "Neue Fensterleiste im Drolla-Look: eigene Knöpfe zum Minimieren, Maximieren und Schließen. Verschieben, Doppelklick zum Maximieren und Größe ändern am Rand funktionieren wie gewohnt.",
-  "signature": "DwKLMKJwr20cAk4vObRobpJCs7qCG0HH/44YD8JGeOOUtQfEPUVrf5k49MjVhUhIf18N/sO+urqWbSO9bNDYDw=="
+  "version": "pre-16",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-16/Drolla_Client_v_pre-16.zip",
+  "sha256": "be97d8a01efd1bb8d729baf0ef80e40b0956b08c0ffba048f8b5c7a7b2d94ad2",
+  "notes": "Neu: Test-Start! Probier Mods und Einstellungen in einem Wegwerf-Profil aus – deine Welten bleiben unberührt, und nach dem Schließen wird alles wieder gelöscht. Ohne Anmeldung startet Minecraft im offiziellen Demo-Modus.",
+  "signature": "hIdwwwAA/W0uJTlWnVqyJj0TzTNUOQUYtMM4fXHjg5Aee4hReUqUUSjcUdyuxlpnMOn0NzGtmntAH04CGVGBBw=="
 }
