@@ -1,7 +1,7 @@
 {
-  "version": "pre-20",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-20/Drolla_Client_v_pre-20.zip",
-  "sha256": "dbb59505c2f5002a8000d0eddf83c9e04386ac0bd2d5dce27e13f746887085b2",
-  "notes": "Neu: Freundesliste\n- Freunde per Minecraft-Namen hinzufuegen (wird bei Mojang geprueft)\n- Gesicht des Skins wird neben dem Namen angezeigt\n- Freunde entfernen; Liste wird lokal gespeichert",
-  "signature": "pmf9b9Ol3mu3XE/tVOLuE1OYPt5Pidhz4OMb/H3ZVDdtRHOePeWnA1NRTAOhgN6tTyOkbq6qvpVw73M7xtGkBw=="
+  "version": "pre-21",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-21/Drolla_Client_v_pre-21.zip",
+  "sha256": "4f5c63fe700c8b3935e0e8323564f93156bf05dacd2015e5743823b57e8b665a",
+  "notes": "Neu: Freundschaftsanfragen - Spieler über den Minecraft-Namen suchen, Anfrage schicken, der andere nimmt an oder lehnt ab. Mit Online-Anzeige und Zähler an Friends.\nNeu: Drollas gehören jetzt fest zu deinem Minecraft-Konto und gelten auf jedem PC. Dein bisheriger Stand wird beim ersten Start übernommen.\nFür Freunde und Drollas musst du mit deinem Microsoft-Konto angemeldet sein.",
+  "signature": "vOOQKhkrTJYjXK/+jwU0UicDDhd73yMS+L1JZLpnwqSxIKGPE4BGzPrucoeqCw5CZUWYZq6J5wF8RueKyfD7CQ=="
 }
