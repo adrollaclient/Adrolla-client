@@ -1,7 +1,7 @@
 {
-  "version": "pre-17",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-17/Drolla_Client_v_pre-17.zip",
-  "sha256": "dab3c3ba95ad9f21b368d188f08a3c9e9396eb8b495cb46fdf222482757e77f2",
-  "notes": "Updates schlagen nicht mehr fehl, wenn Drolla zweimal geöffnet war: Startest du Drolla erneut, kommt jetzt das schon offene Fenster nach vorne. Außerdem wartet der Updater, bis alle Dateien frei sind.",
-  "signature": "loWtuq30UsuqsUlO7OHHf+1mW0yf65ao6vhfIuj9YFi4EATNGI0Hrwyn539Gw9uHOAJP72VPMS8kKLFBVBcgBw=="
+  "version": "pre-18",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-18/Drolla_Client_v_pre-18.zip",
+  "sha256": "10ffd35642b4587954e3d26b467689e450954b900aa351ec4ed8b7c352e556fe",
+  "notes": "Minecraft mit Fabric startet wieder: Der Fabric-Loader wurde nicht mitgeladen, dadurch schloss sich das Spiel sofort. Außerdem werden Downloads jetzt per Prüfsumme kontrolliert und vorhandene Dateien nicht mehr bei jedem Start neu geladen.",
+  "signature": "jzpDdAPJOupA1k2tRHkrPRW2qXdDTELvFfyb8Ale2cQnpQcW/I/0hGubwd/3ChHlE1qg68fyWgCOMJ76nffsBw=="
 }
