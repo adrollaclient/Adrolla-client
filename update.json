@@ -1,7 +1,7 @@
 {
-  "version": "pre-19",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-19/Drolla_Client_v_pre-19.zip",
-  "sha256": "34c0e89cfd49759d01dcb91ad55f0fd7c2cfe0ef0e0517211d1ccf1e3317d8be",
-  "notes": "Der FPS-Boost holt jetzt viel mehr heraus: bis zu 18 Leistungs-Mods, die gleich richtig eingestellt werden, abgeschaltete Shader, sparsamere Grafik und zusätzliche Java-Feineinstellungen. Die FPS stehen dauerhaft oben links. Alles lässt sich mit einem Klick zurücksetzen.",
-  "signature": "ULpAZFo9bDqntNylDFcgVwceH796bZjfNJOTx9ZYEN2HB3XUmzSwdqHZHP03e4o8GETSjlKjv+TQRfHHbqKPAQ=="
+  "version": "pre-20",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-20/Drolla_Client_v_pre-20.zip",
+  "sha256": "dbb59505c2f5002a8000d0eddf83c9e04386ac0bd2d5dce27e13f746887085b2",
+  "notes": "Neu: Freundesliste\n- Freunde per Minecraft-Namen hinzufuegen (wird bei Mojang geprueft)\n- Gesicht des Skins wird neben dem Namen angezeigt\n- Freunde entfernen; Liste wird lokal gespeichert",
+  "signature": "pmf9b9Ol3mu3XE/tVOLuE1OYPt5Pidhz4OMb/H3ZVDdtRHOePeWnA1NRTAOhgN6tTyOkbq6qvpVw73M7xtGkBw=="
 }
