@@ -1,7 +1,7 @@
 {
-  "version": "pre-14",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-14/Drolla_Client_v_pre-14.zip",
-  "sha256": "be74aa46529e91774fbe8ce615134aca7bbec02a68081295b805613d85968ac2",
-  "notes": "Die alte Desktop-Verknüpfung ‚Adrolla Client‘ wird jetzt zuverlässig durch ‚Drolla Client‘ mit dem richtigen Symbol ersetzt.",
-  "signature": "OnNC5fmBZIRjARfDEQtzbsPpCXtI/pBpftHYgyg3sDJl2FZx6GW5FUOBQrwSG5ABkhCcThy+zN245Uc6jFjUAQ=="
+  "version": "pre-15",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-15/Drolla_Client_v_pre-15.zip",
+  "sha256": "154a8efadaf831e09123a0978c863fda0e04fc7a5f09345193726add7d2f43b7",
+  "notes": "Neue Fensterleiste im Drolla-Look: eigene Knöpfe zum Minimieren, Maximieren und Schließen. Verschieben, Doppelklick zum Maximieren und Größe ändern am Rand funktionieren wie gewohnt.",
+  "signature": "DwKLMKJwr20cAk4vObRobpJCs7qCG0HH/44YD8JGeOOUtQfEPUVrf5k49MjVhUhIf18N/sO+urqWbSO9bNDYDw=="
 }
