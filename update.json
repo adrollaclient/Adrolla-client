@@ -1,7 +1,7 @@
 {
-  "version": "pre-18",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-18/Drolla_Client_v_pre-18.zip",
-  "sha256": "10ffd35642b4587954e3d26b467689e450954b900aa351ec4ed8b7c352e556fe",
-  "notes": "Minecraft mit Fabric startet wieder: Der Fabric-Loader wurde nicht mitgeladen, dadurch schloss sich das Spiel sofort. Außerdem werden Downloads jetzt per Prüfsumme kontrolliert und vorhandene Dateien nicht mehr bei jedem Start neu geladen.",
-  "signature": "jzpDdAPJOupA1k2tRHkrPRW2qXdDTELvFfyb8Ale2cQnpQcW/I/0hGubwd/3ChHlE1qg68fyWgCOMJ76nffsBw=="
+  "version": "pre-19",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-19/Drolla_Client_v_pre-19.zip",
+  "sha256": "34c0e89cfd49759d01dcb91ad55f0fd7c2cfe0ef0e0517211d1ccf1e3317d8be",
+  "notes": "Der FPS-Boost holt jetzt viel mehr heraus: bis zu 18 Leistungs-Mods, die gleich richtig eingestellt werden, abgeschaltete Shader, sparsamere Grafik und zusätzliche Java-Feineinstellungen. Die FPS stehen dauerhaft oben links. Alles lässt sich mit einem Klick zurücksetzen.",
+  "signature": "ULpAZFo9bDqntNylDFcgVwceH796bZjfNJOTx9ZYEN2HB3XUmzSwdqHZHP03e4o8GETSjlKjv+TQRfHHbqKPAQ=="
 }
