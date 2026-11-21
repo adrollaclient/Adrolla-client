@@ -1,7 +1,7 @@
 {
-  "version": "pre-16",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-16/Drolla_Client_v_pre-16.zip",
-  "sha256": "be97d8a01efd1bb8d729baf0ef80e40b0956b08c0ffba048f8b5c7a7b2d94ad2",
-  "notes": "Neu: Test-Start! Probier Mods und Einstellungen in einem Wegwerf-Profil aus – deine Welten bleiben unberührt, und nach dem Schließen wird alles wieder gelöscht. Ohne Anmeldung startet Minecraft im offiziellen Demo-Modus.",
-  "signature": "hIdwwwAA/W0uJTlWnVqyJj0TzTNUOQUYtMM4fXHjg5Aee4hReUqUUSjcUdyuxlpnMOn0NzGtmntAH04CGVGBBw=="
+  "version": "pre-17",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-17/Drolla_Client_v_pre-17.zip",
+  "sha256": "dab3c3ba95ad9f21b368d188f08a3c9e9396eb8b495cb46fdf222482757e77f2",
+  "notes": "Updates schlagen nicht mehr fehl, wenn Drolla zweimal geöffnet war: Startest du Drolla erneut, kommt jetzt das schon offene Fenster nach vorne. Außerdem wartet der Updater, bis alle Dateien frei sind.",
+  "signature": "loWtuq30UsuqsUlO7OHHf+1mW0yf65ao6vhfIuj9YFi4EATNGI0Hrwyn539Gw9uHOAJP72VPMS8kKLFBVBcgBw=="
 }
