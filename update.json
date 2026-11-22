@@ -1,7 +1,7 @@
 {
-  "version": "pre-36",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-36/Drolla_Client_v_pre-36.zip",
-  "sha256": "97c0a6d81d238e9251ba79d8f144b79387ff2fc9229278cdcb291c8b9c39ce56",
-  "notes": "Neue Mods im Rechts-Shift-Menü: Minimap, Wegpunkte (Taste B, Todespunkt, Anzeige im Spiel), Kompass-Leiste, Trank-Effekte, Uhrzeit, Ping, Geschwindigkeit. Mod-Menü mit 4 Spalten und Scrollen.",
-  "signature": "GL4RUaL+OblJEVlN9fcQgoHiwLcQuolBsb+CPE2O5mkQagUz5A7o/NUQ8+ArP5yH3k0ejnUxpgTcY53wVSrbBg=="
+  "version": "pre-37",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-37/Drolla_Client_v_pre-37.zip",
+  "sha256": "cc8dcfc31e7cea747735d147abd683a71661e67688018fd5e497164259e283a2",
+  "notes": "Neue Mods: Freelook (Alt halten), eigenes Fadenkreuz, Uhrzeit- und Wetter-Changer, Toggle Sneak, Reach, Combo, Server-Adresse, Arbeitsspeicher, Tag-Zähler.",
+  "signature": "kN5jhmx0cNVccUC/T0gHFqqplvUTs2YtAx3trJKEDuhYdFyCLp3FTPb5fTcmvn/y+YSTA8utabJL8m7f8X62CA=="
 }
