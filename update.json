@@ -1,7 +1,7 @@
 {
-  "version": "pre-38",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-38/Drolla_Client_v_pre-38.zip",
-  "sha256": "c3a8bc43dec440e654242e3e6486f8a993932a4fa036216f4540428d0de99f3b",
-  "notes": "Fix: Mit eigenem Fadenkreuz verschwand die Hotbar - jetzt bleibt sie sichtbar.",
-  "signature": "/KxoK8/KlGSOXsvl1iWFeUvQDbHqlYkRHU3Th15+EximfgLoLXtN8gtm1F/zVN7J4/HCs0eLuf2vhe+MY0tbAg=="
+  "version": "pre-39",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-39/Drolla_Client_v_pre-39.zip",
+  "sha256": "d96ae387734585a1c248a349aca362b85908f3e44b1d8b822c23f3acfcaec5e5",
+  "notes": "Menü und HUD ohne rote Striche (Streifen standardmäßig aus, ausgeschaltete Mods grau). Fixes: Trank-Effekte nicht mehr doppelt, Fullbright verliert beim Speichern nicht mehr die echte Helligkeit.",
+  "signature": "ULgHLdMtwuW4PoF7OSJubW4JA+oPcRLlG3Gnvq3Pee1ZHdmY853b8H7cE0n8balOMstkKJ0k+XP2XtdYaOf7DQ=="
 }
