@@ -1,7 +1,7 @@
 {
-  "version": "pre-26",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-26/Drolla_Client_v_pre-26.zip",
-  "sha256": "0d1fada1a7e3cfe839eed43af57aba9c470741dc5363be1d2fb4b5f62bc622e6",
-  "notes": "Die Vorlagen haben keinen eigenen Menüpunkt mehr: Du findest sie jetzt unter Profile über den Knopf 'Vorlagen' oben rechts.\nAuf der Vorlagen-Seite bringt dich 'Zurück zu den Profilen' wieder zurück.",
-  "signature": "MiwYDDJvOweHgdCAheS937tv3HGWJrM5fkqQXZhaXjb0DtaxdlthPvEJ0VnohHNBGtahPSjzFnAGFYjXB3TtBQ=="
+  "version": "pre-27",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-27/Drolla_Client_v_pre-27.zip",
+  "sha256": "1d08a999e253a9f8e1b481d183982f669d8add61ebc0fdd93e53a9a15974644f",
+  "notes": "Capes aus Fotos sind jetzt viel schärfer: HD hat doppelte Auflösung (1024x512), das Foto wird sauber verkleinert und leicht nachgeschärft.\nDie 3D-Vorschau zeigt Foto-Capes weich statt pixelig, und schon beim Zuschneiden siehst du die echte HD-Qualität.\nBereits erstellte Capes bleiben unverändert - für mehr Schärfe einfach neu aus dem Foto erstellen.",
+  "signature": "44kmd2oKWfCSzpxQ/u0DHpdXzlN08Vb6j9JYTsTZfkZ8vdgup+ODuo1IbI3w+Rz/hQUVW4ZjPKgWTzH5AZRcDw=="
 }
