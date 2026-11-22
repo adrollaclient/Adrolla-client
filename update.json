@@ -1,7 +1,7 @@
 {
-  "version": "pre-40",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-40/Drolla_Client_v_pre-40.zip",
-  "sha256": "0b2b37c7c93b9ce40d5be7edcaf8d91e9ead4fb6838335ca6278e47e99f7fbf8",
-  "notes": "Skins und Capes: Die Liste scrollt jetzt in einem eigenen Bereich neben der Vorschau, die Seite wird nicht mehr lang gezogen. Effekt Sonnenschein: folgt nicht mehr der Maus, weichere Strahlen, warmer Lichtschleier, schönere Sonne.",
-  "signature": "tv5tT76Fp4JrrQfRx/fxd+skLjGR2qDJQcMBiABYTap+YL8pj6l40NAgwhMVnvRailHsKkzrEyhzzBeyse9gCQ=="
+  "version": "pre-41",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-41/Drolla_Client_v_pre-41.zip",
+  "sha256": "ce8c7da8ad3c9367ddbfc8af777b6b603b6cd0654ebd9997dc1f351c04834ef2",
+  "notes": "Rechts-Shift-Menü: rotes X an jeder Anzeige zum Ausschalten. Minimap: viel weniger FPS-Verlust, flüssiges Drehen, keine alte Karte nach Weltwechsel, eigener Pfeil abschaltbar, Nether schneller.",
+  "signature": "+OQ+yBzjxkIpAAwxDS6s42cJPGhERQPBsFbLv22LLY8sSNoIM+3337ARlgwo1y0etdeoB4DGm7AIE0ARUYpJDQ=="
 }
