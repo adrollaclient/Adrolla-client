@@ -1,7 +1,7 @@
 {
-  "version": "pre-24",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-24/Drolla_Client_v_pre-24.zip",
-  "sha256": "73819e3e6ca73dd830ef7920c2f7a55e6da08d2403af8d2595922ff6ea6c29d4",
-  "notes": "Die Effekte sind jetzt viel lebendiger und reagieren auf deine Maus:\nSchnee: Eiskristalle, Windböen, Flocken weichen der Maus aus, unten bleibt Schnee liegen.\nRegen: Gewitter mit Blitzen, und über der Maus ist ein unsichtbarer Schirm, an dem die Tropfen zerplatzen.\nSonnenschein: Linsenreflexe, die der Maus folgen.\nSterne: Sternbilder um die Maus und Sternschnuppen mit Funkenspur.",
-  "signature": "p0eETm865WZdtZOO5i7AddW4627XMspqGWVkPrtwoDrX1jAdaG2M6euGmnnwxrDMZY5ysZ3ecQFiT8rxe3t3BA=="
+  "version": "pre-25",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-25/Drolla_Client_v_pre-25.zip",
+  "sha256": "5c6c498536fa2f2ba1bba3432b8715a141061e0e4a171a45974c6ca55a58705e",
+  "notes": "Neu: Freunde spielen gerade - in der Freundesliste siehst du, wer gerade Minecraft spielt, welche Version und auf welchem Server. Mit 'Beitreten' startet Drolla und verbindet dich direkt.\nDas Teilen ist freiwillig und standardmäßig aus: Einschalten auf der Friends-Seite oder unter Einstellungen -> Datenschutz. Weltnamen und LAN-Adressen werden nie geteilt.\nNeu: Bilder - alle Screenshots aus deinen Profilen in einer Galerie, mit Großansicht, Blättern, Kopieren und Löschen.",
+  "signature": "wU2etSyirVfkTKgGlMGnWVRj+3Ucj21P7ICxtr2j6YDD0msx6smCrpVCm09NO31QtZ/2Bb/rsTo4Q3EZkIqkCA=="
 }
