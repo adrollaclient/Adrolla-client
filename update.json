@@ -1,7 +1,7 @@
 {
-  "version": "pre-31",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-31/Drolla_Client_v_pre-31.zip",
-  "sha256": "a36a90584cf3134c3d9e855c02251d12b1924e8b6df3de418166cf8ba0794b24",
-  "notes": "HUD-Anzeigen verschieben: Im Rechts-Shift-Menü lassen sich FPS, Koordinaten, Keystrokes und CPS mit der Maus überallhin ziehen (Einrasten an Mitte und Rand, Rechtsklick = zurücksetzen).",
-  "signature": "mJ8FVWuw8SBaoo/78+0es4HHy0Y857NPiscpNxpxkO7Sn7M1oabDkYBcGbmYSCE1P0/IeNTSrDxDCx6RGMTlCA=="
+  "version": "pre-32",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-32/Drolla_Client_v_pre-32.zip",
+  "sha256": "522dc50d122c8062f8126ef31a1087e8194424c9273a81e0dd39194341127300",
+  "notes": "Neue Rüstungsanzeige: Rüstungsteile (und das Item in der Hand) mit verbleibender Haltbarkeit daneben, farbig nach Zustand. Im Rechts-Shift-Menü ein-/ausschaltbar und verschiebbar.",
+  "signature": "iPH1notj7bxDTA6asP1RE+NBIGTxQjSA1D8YEzmJNXDKkCaPK0e4DdMLyFGHSURe1nGJMOlUvI8sGwPpdyNrDg=="
 }
