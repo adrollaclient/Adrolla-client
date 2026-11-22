@@ -1,7 +1,7 @@
 {
-  "version": "pre-22",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-22/Drolla_Client_v_pre-22.zip",
-  "sha256": "77a307974c9e4093dc69d67ca712e581d92c61a28e200dd49981c455d6ef223f",
-  "notes": "Neu: Einstellungen im neuen Look - Kategorien links, Suche über alle Einstellungen, übersichtliche Abschnitte rechts.\nNeu: Drolla lässt sich in den Einstellungen unter System deinstallieren. Deine Daten (Profile, Welten, Accounts) kannst du dabei behalten.\nNeu: Unter System kannst du den Drolla-Ordner direkt öffnen.\nBehoben: Die Desktop-Verknüpfung zeigt jetzt sofort das Drolla-Logo.",
-  "signature": "626LG/mrZwQlx9lYcd0feX/19xtzO9pLnsd4dBydqjjPYyYYfrSSoX6y8mk3+7zv6DSrMqqzASaCiChmUw0aBA=="
+  "version": "pre-23",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-23/Drolla_Client_v_pre-23.zip",
+  "sha256": "c92065da62b2161331cde3d0bec9e213bc7a07767917eb96eb1a9e6f9a21ef7d",
+  "notes": "Neu: Effekte! Unter Einstellungen -> Aussehen kannst du Schnee, Regen, Sonnenschein oder Sterne über das ganze Fenster legen - oder sie ausschalten.\nDie Effekte sind sparsam gebaut und ruhen automatisch, solange Drolla nicht im Vordergrund ist (z. B. beim Spielen).",
+  "signature": "afbNDc2aQsdgs5ee6HeS5DCR1IvDaAkcLkFGfo/lkACwJP6N6iIySHumsO2vD/kx0zw051hSs0UQZpB9tI7aDA=="
 }
