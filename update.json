@@ -1,7 +1,7 @@
 {
-  "version": "pre-27",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-27/Drolla_Client_v_pre-27.zip",
-  "sha256": "1d08a999e253a9f8e1b481d183982f669d8add61ebc0fdd93e53a9a15974644f",
-  "notes": "Capes aus Fotos sind jetzt viel schärfer: HD hat doppelte Auflösung (1024x512), das Foto wird sauber verkleinert und leicht nachgeschärft.\nDie 3D-Vorschau zeigt Foto-Capes weich statt pixelig, und schon beim Zuschneiden siehst du die echte HD-Qualität.\nBereits erstellte Capes bleiben unverändert - für mehr Schärfe einfach neu aus dem Foto erstellen.",
-  "signature": "44kmd2oKWfCSzpxQ/u0DHpdXzlN08Vb6j9JYTsTZfkZ8vdgup+ODuo1IbI3w+Rz/hQUVW4ZjPKgWTzH5AZRcDw=="
+  "version": "pre-28",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-28/Drolla_Client_v_pre-28.zip",
+  "sha256": "58e64587a6c41761ddc79b7588cb2c4d81b6d3ab888fac8c784cfcd331b24c51",
+  "notes": "Updates werden jetzt sofort nach dem Erscheinen gefunden - vorher konnte es bis zu 5 Minuten dauern, bis 'Nach Updates suchen' eine neue Version gesehen hat.",
+  "signature": "ahpGyqK5P5oxeYLm1RdSLHzzpoEESCSX00V2WAGzd32tg9RHa+quHYPEAYuA/mm9YapayoKg5LvIv+4c6LlCCQ=="
 }
