@@ -1,7 +1,7 @@
 {
-  "version": "pre-25",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-25/Drolla_Client_v_pre-25.zip",
-  "sha256": "5c6c498536fa2f2ba1bba3432b8715a141061e0e4a171a45974c6ca55a58705e",
-  "notes": "Neu: Freunde spielen gerade - in der Freundesliste siehst du, wer gerade Minecraft spielt, welche Version und auf welchem Server. Mit 'Beitreten' startet Drolla und verbindet dich direkt.\nDas Teilen ist freiwillig und standardmäßig aus: Einschalten auf der Friends-Seite oder unter Einstellungen -> Datenschutz. Weltnamen und LAN-Adressen werden nie geteilt.\nNeu: Bilder - alle Screenshots aus deinen Profilen in einer Galerie, mit Großansicht, Blättern, Kopieren und Löschen.",
-  "signature": "wU2etSyirVfkTKgGlMGnWVRj+3Ucj21P7ICxtr2j6YDD0msx6smCrpVCm09NO31QtZ/2Bb/rsTo4Q3EZkIqkCA=="
+  "version": "pre-26",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-26/Drolla_Client_v_pre-26.zip",
+  "sha256": "0d1fada1a7e3cfe839eed43af57aba9c470741dc5363be1d2fb4b5f62bc622e6",
+  "notes": "Die Vorlagen haben keinen eigenen Menüpunkt mehr: Du findest sie jetzt unter Profile über den Knopf 'Vorlagen' oben rechts.\nAuf der Vorlagen-Seite bringt dich 'Zurück zu den Profilen' wieder zurück.",
+  "signature": "MiwYDDJvOweHgdCAheS937tv3HGWJrM5fkqQXZhaXjb0DtaxdlthPvEJ0VnohHNBGtahPSjzFnAGFYjXB3TtBQ=="
 }
