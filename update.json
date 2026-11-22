@@ -1,7 +1,7 @@
 {
-  "version": "pre-30",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-30/Drolla_Client_v_pre-30.zip",
-  "sha256": "d4d4186c48631b859c4c4b7ce821bd1e09af07fa4dcb55893406f767b2ecd167",
-  "notes": "Neues Rechts-Shift-Menü im Lunar-Stil: Weichzeichner, Drolla-Logo, MODS-Tafel mit Karten zum Ein- und Ausschalten, Schnellknöpfe für Optionen und Fullbright, HUD ein/aus",
-  "signature": "HKbY0BZeH3Ydz1hmE+Xp4ZHUpr0kYAwEBLucTxc7B4NY5Ro4RQpIHIxlxQLpLgSbgum1nvhENuxuQlFpbfxQAA=="
+  "version": "pre-31",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-31/Drolla_Client_v_pre-31.zip",
+  "sha256": "a36a90584cf3134c3d9e855c02251d12b1924e8b6df3de418166cf8ba0794b24",
+  "notes": "HUD-Anzeigen verschieben: Im Rechts-Shift-Menü lassen sich FPS, Koordinaten, Keystrokes und CPS mit der Maus überallhin ziehen (Einrasten an Mitte und Rand, Rechtsklick = zurücksetzen).",
+  "signature": "mJ8FVWuw8SBaoo/78+0es4HHy0Y857NPiscpNxpxkO7Sn7M1oabDkYBcGbmYSCE1P0/IeNTSrDxDCx6RGMTlCA=="
 }
