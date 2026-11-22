@@ -1,7 +1,7 @@
 {
-  "version": "pre-29",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-29/Drolla_Client_v_pre-29.zip",
-  "sha256": "a9a3619511af6cc22c18a03339f0072946db8677b04e765333a78465a8e7c458",
-  "notes": "Neu: Ingame-Menü! Drück in Minecraft Rechts-Shift - mitten im Bild öffnet sich das Drolla-Menü, das Spiel bleibt rundherum sichtbar.\nDort einzeln an-/ausschaltbar: FPS-Anzeige, Koordinaten, Keystrokes, CPS, Zoom (Taste C), Fullbright und Toggle Sprint.\nFunktioniert in Fabric-Profilen mit Minecraft 1.21.11 - Drolla installiert dafür automatisch seine eigene kleine Mod. Ausschalten unter Einstellungen -> Spiel.",
-  "signature": "96Q01rAhI6BffawO87V3yGwKVS6i2KJTjIEpS5sXf3ysGs4NnvYmPc868AiNL/z9jzIF1mfHuvmAZ9ZqvlRWAg=="
+  "version": "pre-30",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-30/Drolla_Client_v_pre-30.zip",
+  "sha256": "d4d4186c48631b859c4c4b7ce821bd1e09af07fa4dcb55893406f767b2ecd167",
+  "notes": "Neues Rechts-Shift-Menü im Lunar-Stil: Weichzeichner, Drolla-Logo, MODS-Tafel mit Karten zum Ein- und Ausschalten, Schnellknöpfe für Optionen und Fullbright, HUD ein/aus",
+  "signature": "HKbY0BZeH3Ydz1hmE+Xp4ZHUpr0kYAwEBLucTxc7B4NY5Ro4RQpIHIxlxQLpLgSbgum1nvhENuxuQlFpbfxQAA=="
 }
