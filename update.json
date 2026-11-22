@@ -1,7 +1,7 @@
 {
-  "version": "pre-37",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-37/Drolla_Client_v_pre-37.zip",
-  "sha256": "cc8dcfc31e7cea747735d147abd683a71661e67688018fd5e497164259e283a2",
-  "notes": "Neue Mods: Freelook (Alt halten), eigenes Fadenkreuz, Uhrzeit- und Wetter-Changer, Toggle Sneak, Reach, Combo, Server-Adresse, Arbeitsspeicher, Tag-Zähler.",
-  "signature": "kN5jhmx0cNVccUC/T0gHFqqplvUTs2YtAx3trJKEDuhYdFyCLp3FTPb5fTcmvn/y+YSTA8utabJL8m7f8X62CA=="
+  "version": "pre-38",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-38/Drolla_Client_v_pre-38.zip",
+  "sha256": "c3a8bc43dec440e654242e3e6486f8a993932a4fa036216f4540428d0de99f3b",
+  "notes": "Fix: Mit eigenem Fadenkreuz verschwand die Hotbar - jetzt bleibt sie sichtbar.",
+  "signature": "/KxoK8/KlGSOXsvl1iWFeUvQDbHqlYkRHU3Th15+EximfgLoLXtN8gtm1F/zVN7J4/HCs0eLuf2vhe+MY0tbAg=="
 }
