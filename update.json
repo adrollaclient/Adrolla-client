@@ -1,7 +1,7 @@
 {
-  "version": "pre-23",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-23/Drolla_Client_v_pre-23.zip",
-  "sha256": "c92065da62b2161331cde3d0bec9e213bc7a07767917eb96eb1a9e6f9a21ef7d",
-  "notes": "Neu: Effekte! Unter Einstellungen -> Aussehen kannst du Schnee, Regen, Sonnenschein oder Sterne über das ganze Fenster legen - oder sie ausschalten.\nDie Effekte sind sparsam gebaut und ruhen automatisch, solange Drolla nicht im Vordergrund ist (z. B. beim Spielen).",
-  "signature": "afbNDc2aQsdgs5ee6HeS5DCR1IvDaAkcLkFGfo/lkACwJP6N6iIySHumsO2vD/kx0zw051hSs0UQZpB9tI7aDA=="
+  "version": "pre-24",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-24/Drolla_Client_v_pre-24.zip",
+  "sha256": "73819e3e6ca73dd830ef7920c2f7a55e6da08d2403af8d2595922ff6ea6c29d4",
+  "notes": "Die Effekte sind jetzt viel lebendiger und reagieren auf deine Maus:\nSchnee: Eiskristalle, Windböen, Flocken weichen der Maus aus, unten bleibt Schnee liegen.\nRegen: Gewitter mit Blitzen, und über der Maus ist ein unsichtbarer Schirm, an dem die Tropfen zerplatzen.\nSonnenschein: Linsenreflexe, die der Maus folgen.\nSterne: Sternbilder um die Maus und Sternschnuppen mit Funkenspur.",
+  "signature": "p0eETm865WZdtZOO5i7AddW4627XMspqGWVkPrtwoDrX1jAdaG2M6euGmnnwxrDMZY5ysZ3ecQFiT8rxe3t3BA=="
 }
