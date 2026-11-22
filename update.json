@@ -1,7 +1,7 @@
 {
-  "version": "pre-33",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-33/Drolla_Client_v_pre-33.zip",
-  "sha256": "b7ec425fed28f742acc529aae3ba5159012d9268165568e1b21b60056efcb47e",
-  "notes": "FPS-Anzeige zeigt jetzt genau denselben Wert wie der F3-Bildschirm.",
-  "signature": "ZJ2NNy0emaWDD/qOGfOzdYsBelTdHzm5JOL5CS+vZF0Xkdyd7H5basTtnmg4wnZoSHdoHlV+mq9oXxM42UkNAg=="
+  "version": "pre-34",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-34/Drolla_Client_v_pre-34.zip",
+  "sha256": "dcb3540ba66198b6192637be93e6a0591504168fcb253594c65b7aeed50697dc",
+  "notes": "Doppelte FPS-Anzeige entfernt: Die Sodium-Extra-Anzeige (avg / 1% low) wird ausgeschaltet, es bleibt nur die Drolla-FPS-Anzeige.",
+  "signature": "t8b1g+yz646rnbV1yK2dUaPVL3023h+Hrqe2/RQL/yhPGuoeTMIp11iOmdwYOADAv6iuT/k/B1SiiNrt7tb1Bw=="
 }
