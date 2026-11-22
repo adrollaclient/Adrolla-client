@@ -1,7 +1,7 @@
 {
-  "version": "pre-28",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-28/Drolla_Client_v_pre-28.zip",
-  "sha256": "58e64587a6c41761ddc79b7588cb2c4d81b6d3ab888fac8c784cfcd331b24c51",
-  "notes": "Updates werden jetzt sofort nach dem Erscheinen gefunden - vorher konnte es bis zu 5 Minuten dauern, bis 'Nach Updates suchen' eine neue Version gesehen hat.",
-  "signature": "ahpGyqK5P5oxeYLm1RdSLHzzpoEESCSX00V2WAGzd32tg9RHa+quHYPEAYuA/mm9YapayoKg5LvIv+4c6LlCCQ=="
+  "version": "pre-29",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-29/Drolla_Client_v_pre-29.zip",
+  "sha256": "a9a3619511af6cc22c18a03339f0072946db8677b04e765333a78465a8e7c458",
+  "notes": "Neu: Ingame-Menü! Drück in Minecraft Rechts-Shift - mitten im Bild öffnet sich das Drolla-Menü, das Spiel bleibt rundherum sichtbar.\nDort einzeln an-/ausschaltbar: FPS-Anzeige, Koordinaten, Keystrokes, CPS, Zoom (Taste C), Fullbright und Toggle Sprint.\nFunktioniert in Fabric-Profilen mit Minecraft 1.21.11 - Drolla installiert dafür automatisch seine eigene kleine Mod. Ausschalten unter Einstellungen -> Spiel.",
+  "signature": "96Q01rAhI6BffawO87V3yGwKVS6i2KJTjIEpS5sXf3ysGs4NnvYmPc868AiNL/z9jzIF1mfHuvmAZ9ZqvlRWAg=="
 }
