@@ -1,7 +1,7 @@
 {
-  "version": "pre-42",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-42/Drolla_Client_v_pre-42.zip",
-  "sha256": "d0f889b986a873be905296176f10016a01871a8a69df3ecb70a266609513fbd8",
-  "notes": "Rechts-Shift-Menü: Fadenkreuz selbst zeichnen (Fadenkreuz -> Zahnrad -> Eigenes Fadenkreuz zeichnen)\nMod-Suche in der MODS-Tafel - einfach lostippen\nNeuer Hintergrund-Stil \"Durchsichtig\" für alle HUD-Anzeigen",
-  "signature": "cdnsEJbEVoKieECkR968j7VyX4U/OdGKTDDqIIPP1Z4FgYiCZNQRPhRnsGCStzKvgQZSXsSs2ZQEE64dcKJ/CQ=="
+  "version": "pre-43",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-43/Drolla_Client_v_pre-43.zip",
+  "sha256": "da400e3045226d0d9d3903dedcc7e1f4839046971866c201c0062249b2c7ac9e",
+  "notes": "Update-Frage beim Start: jetzt installieren oder später\nNeues Update-Fenster mit Fortschritt in Prozent und Abbrechen-Knopf",
+  "signature": "KdsoVfuMxuQR8ZtAwAV3YGAxn8vdtzcbDG3RsKSn6XwH/iTpzsRyDit8dm0ftW/VoQQCYqwRE+o8yHn0UtqWCw=="
 }
