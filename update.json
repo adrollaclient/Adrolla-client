@@ -1,7 +1,7 @@
 {
-  "version": "pre-43",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-43/Drolla_Client_v_pre-43.zip",
-  "sha256": "da400e3045226d0d9d3903dedcc7e1f4839046971866c201c0062249b2c7ac9e",
-  "notes": "Update-Frage beim Start: jetzt installieren oder später\nNeues Update-Fenster mit Fortschritt in Prozent und Abbrechen-Knopf",
-  "signature": "KdsoVfuMxuQR8ZtAwAV3YGAxn8vdtzcbDG3RsKSn6XwH/iTpzsRyDit8dm0ftW/VoQQCYqwRE+o8yHn0UtqWCw=="
+  "version": "pre-44",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-44/Drolla_Client_v_pre-44.zip",
+  "sha256": "9e865ce52ec5da4541a2849bfdfbd50b5ac0cd3588ba9a0b8a17fbc7c7a8f2af",
+  "notes": "Neu im Shop: Gamble - Glücksrad mit Drollas (1 bis 1.000 pro Runde, Chancen stehen im Fenster)",
+  "signature": "XT6jnCL3OuFD0exIWhDTCFr6v6LCg7Hh83s+i+JdFv2KiuW1oxd6KyprNraIQt/4X+i+balHh/FCLMXu9ZHvBg=="
 }
