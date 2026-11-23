@@ -1,7 +1,7 @@
 {
-  "version": "pre-41",
-  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-41/Drolla_Client_v_pre-41.zip",
-  "sha256": "ce8c7da8ad3c9367ddbfc8af777b6b603b6cd0654ebd9997dc1f351c04834ef2",
-  "notes": "Rechts-Shift-Menü: rotes X an jeder Anzeige zum Ausschalten. Minimap: viel weniger FPS-Verlust, flüssiges Drehen, keine alte Karte nach Weltwechsel, eigener Pfeil abschaltbar, Nether schneller.",
-  "signature": "+OQ+yBzjxkIpAAwxDS6s42cJPGhERQPBsFbLv22LLY8sSNoIM+3337ARlgwo1y0etdeoB4DGm7AIE0ARUYpJDQ=="
+  "version": "pre-42",
+  "url": "https://github.com/adrollaclient/Adrolla-client/releases/download/v-pre-42/Drolla_Client_v_pre-42.zip",
+  "sha256": "d0f889b986a873be905296176f10016a01871a8a69df3ecb70a266609513fbd8",
+  "notes": "Rechts-Shift-Menü: Fadenkreuz selbst zeichnen (Fadenkreuz -> Zahnrad -> Eigenes Fadenkreuz zeichnen)\nMod-Suche in der MODS-Tafel - einfach lostippen\nNeuer Hintergrund-Stil \"Durchsichtig\" für alle HUD-Anzeigen",
+  "signature": "cdnsEJbEVoKieECkR968j7VyX4U/OdGKTDDqIIPP1Z4FgYiCZNQRPhRnsGCStzKvgQZSXsSs2ZQEE64dcKJ/CQ=="
 }
